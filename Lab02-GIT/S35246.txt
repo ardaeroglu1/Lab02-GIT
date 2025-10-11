@@ -1,2 +1,4 @@
-Name:{Arda}
+Name:{Arda Eroglu}
 University: PJATK 
+student id: S35246 
+student id: S35246 
